@@ -34,7 +34,7 @@
 		// Reference to renderable resource
 		image = (function () {
 			var i = new window.Image();
-			i.src = 'http://leanlinares.s3-website-us-east-1.amazonaws.com/doodles/doodlelander.png';
+			i.src = 'http://leanlinares.s3-website-us-east-1.amazonaws.com/doodles/lander.png';
 			return i;
 		}());
 
