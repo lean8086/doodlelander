@@ -1,7 +1,7 @@
-# Doodle Gravity
+# Doodle Lander
 A simple experiment with some physics laws like gravity.
 
-[Try demo!](http://llinares.github.com/doodlegravity/)
+[Try now!](http://llinares.github.com/doodlelander/)
 
 ## Instructions
 * ↑ or W: Ignition
