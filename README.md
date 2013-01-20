@@ -1,7 +1,7 @@
 # Doodle Lander
 Playing with gravity on Canvas.
 
-[Try now!](http://llinares.github.com/doodlelander/)
+[Try demo!](http://llinares.github.com/doodlelander/)
 
 ## Instructions
 * ↑ or W: Ignition
