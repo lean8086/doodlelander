@@ -1,5 +1,5 @@
 # Doodle Lander
-A simple experiment with some physics laws like gravity.
+Playing with gravity on Canvas.
 
 [Try now!](http://llinares.github.com/doodlelander/)
 
@@ -9,4 +9,4 @@ A simple experiment with some physics laws like gravity.
 * → or D: Go to right
 
 ## Contact
-Experiment by Leandro Linares [@lean8086](http://twitter.com/lean8086)
+Experiment by [Leandro Linares](http://leanlinares.me)
