@@ -1,7 +1,7 @@
 # Doodle Lander
 Playing with gravity on Canvas.
 
-[Try demo!](http://llinares.github.com/doodlelander/)
+[Try demo!](https://www.lean8086.com/labs/doodle-lander/)
 
 ## Instructions
 * ↑ or W: Ignition
@@ -9,4 +9,4 @@ Playing with gravity on Canvas.
 * → or D: Go to right
 
 ## Contact
-Experiment by [Leandro Linares](http://leanlinares.me)
+Experiment by [Lean Linares](https://www.lean8086.com/)
